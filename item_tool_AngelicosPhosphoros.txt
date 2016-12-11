@@ -1,0 +1,19 @@
+item_tool_AngelicosPhosphoros
+
+[OBJECT:ITEM]
+
+[ITEM_TOOL:ITEM_TOOL_APh_CANDLE]
+[NAME:candle:candles]
+[VALUE:10]
+[TILE:141]
+[SIZE:150]
+[MATERIAL_SIZE:1]
+
+[ITEM_TOOL:ITEM_TOOL_APh_MECHANISM_PARTS]
+[NAME:mechanism parts:mechanism parts]
+[VALUE:50]
+[HARD_MAT]
+[TILE:127]
+[SIZE:200]
+[MATERIAL_SIZE:1]
+[UNIMPROVABLE]
