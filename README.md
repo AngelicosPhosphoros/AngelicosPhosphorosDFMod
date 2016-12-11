@@ -76,19 +76,19 @@ P.S. For internal mechanics philosopher's stone, enchanted wood and moon metal i
 
 ### ARENA FIGHTING TESTS
 #### Testing interactions
-* 1 wizard vs 5 ghoul, 5 wraith, 1 dark mage
+*1 wizard vs 5 ghoul, 5 wraith, 1 dark mage*:
 No one won this battle, dark mage dead. I stopped test after 1 hour.
-* 1 mummy vs 3 wraith, 1 dark mage
+*1 mummy vs 3 wraith, 1 dark mage*:
 Mummy won.
-* 1 mummy vs 5 wraith, 1 dark mage
+*1 mummy vs 5 wraith, 1 dark mage*:
 Mummy dead.
 
 #### Material test results
-* Cutting weapon
+*Cutting weapon*:
 Adamantine > dwarven steel > moon metal > steel, nickel steel > enchanted wood.
-* Blunt weapon and shields
+*Blunt weapon and shields*:
 Steel, nickel steel > dwarven steel > moon metal, enchanted wood > adamantine.
-* Armor
+*Armor*:
 Adamantine > dwarven steel > nickel steel > steel.
 
 ## File format
