@@ -92,4 +92,4 @@ Steel, nickel steel > dwarven steel > moon metal, enchanted wood > adamantine.
 Adamantine > dwarven steel > nickel steel > steel.
 
 ## File format
-All new files have _AngelicosPhosphoros suffix, all new objects have APh_ prefix.
+All new files have `_AngelicosPhosphoros`suffix, all new objects have `APh_` prefix.
