@@ -4,7 +4,7 @@ inorganic_new_metal_AngelicosPhosphoros
 
 New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel steel, elven steel, dwarven steel, moon metal, philosophers stone etc.
 
-[INORGANIC:ENCHANTED_WOOD]
+[INORGANIC:APh_ENCHANTED_WOOD]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:enchanted wood]
 	[STATE_NAME_ADJ:LIQUID:molten enchanted wood]
@@ -43,7 +43,7 @@ New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel stee
 	[MAX_EDGE:10000]
 	[STATE_COLOR:ALL_SOLID:DARK_BLUE]
 
-[INORGANIC:MOON_METAL]
+[INORGANIC:APh_MOON_METAL]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:moon]
 	[STATE_NAME_ADJ:LIQUID:molten moon metal]
@@ -80,7 +80,7 @@ New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel stee
 	[MAX_EDGE:10000]
 	[STATE_COLOR:ALL_SOLID:PALE_BLUE]
 
-[INORGANIC:PHILOSOPHERS_STONE]
+[INORGANIC:APh_PHILOSOPHERS_STONE]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:philosopher's stone]
 	[STATE_ADJ:ALL_SOLID:philosopher's stone]
@@ -116,7 +116,7 @@ New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel stee
 	[MAX_EDGE:1]
 	[STATE_COLOR:ALL_SOLID:PURPLE]
 
-[INORGANIC:NICKEL_STEEL]
+[INORGANIC:APh_NICKEL_STEEL]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:nickel steel]
 	[STATE_NAME_ADJ:LIQUID:molten nickel steel]
@@ -156,7 +156,7 @@ New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel stee
 	[ITEMS_SCALED]
 	[STATE_COLOR:ALL_SOLID:GRAY]
 
-[INORGANIC:DWARVEN_STEEL]
+[INORGANIC:APh_DWARVEN_STEEL]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:dwarven steel]
 	[STATE_NAME_ADJ:LIQUID:molten dwarven steel]
@@ -196,7 +196,7 @@ New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel stee
 	[ITEMS_SCALED]
 	[STATE_COLOR:ALL_SOLID:BLACK]
 
-[INORGANIC:ELVEN_STEEL]
+[INORGANIC:APh_ELVEN_STEEL]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:elven steel]
 	[STATE_NAME_ADJ:LIQUID:molten elven steel]
@@ -237,7 +237,7 @@ New metals added by Angelicos Phosphoros (a.k.a. New man). There are nickel stee
 	[STATE_COLOR:ALL_SOLID:GOLD]
 
 mostly used nickel values
-[INORGANIC:COBALT]
+[INORGANIC:APh_COBALT]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:cobalt]
 	[STATE_NAME_ADJ:LIQUID:molten cobalt]
