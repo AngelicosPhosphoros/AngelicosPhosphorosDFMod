@@ -30,7 +30,7 @@ They have some spells:
 * Create ghoul - creates ghoul, fast, strong and tough undead. However, they have halved kinestic sense.
 * Raise a zombie.
 
-*General tips:* One person can be a wizard and dark mage at one time, but this is only player. Also, wizards can be werebeast or vampire. Both types of mages live in towers and write books.
+*General tips:* One person can be a wizard and dark mage at one time, but this is only player, AI don't search imortality ones achieved. Also, wizards can be werebeast or vampire. Both types of mages live in towers and write books.
 
 ### CIVILIZATIONS
 
