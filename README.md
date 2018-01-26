@@ -41,16 +41,19 @@ There are a lot of changes. Now elves are playable in fortress mode and humans c
 There are not a total changes. You can play as always, but they able to create more types of weapons, uses alchemy and have new metals.
 Non vanilla weapons:
 * Heavy crossbow. Better in close combat, but heavy.
+
 List of new metals:
 * Cobalt. Used in dwarven steel production.
 * Nickel steel. Produced from 2 iron, 2 pig iron, two flux and nickel bar => 5 bars output. Better than steel as armor.
 * Dwarven steel. Produced from 4 iron, 4 pig iron, 2 steel, 4 flux, 6 fuel, 1 cobalt, 1 nickel, 1 copper and 2 adamantine wafers => 15 bars output. Very good weapon and armor metal, cost 160.
+
 Alchemy:
 * Used alchemist skill.
 * Alchemist lab is needed. Builded from 10 vials, 2 barrels and boulder.
 * Philosopher's stone. Very nice and expensive material. Basic cost ~ 250000. Cannot be used as material. To create one bar you need 100 bars of platinum, gold, silver, iron and copper each and 50 boulders of cinnabar. Also, success chance is 10%. Anyway, you can buy it.
 * Transmutation of silver to gold. Require something from philosopher's stone as catalyst (which can be used more than one time).
 * Transmutation of copper to iron. Require catalyst (philosopher's stone).
+
 Other reactions:
 * Encrusting of weapons, shields and armor.
 * Creation of wax candles.
@@ -91,5 +94,5 @@ Steel, nickel steel > dwarven steel > moon metal, enchanted wood > adamantine.
 *Armor*:
 Adamantine > dwarven steel > nickel steel > steel.
 
-## File format
+## Conventions
 All new files have `_AngelicosPhosphoros`suffix, all new objects have `APh_` prefix.
