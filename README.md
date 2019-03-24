@@ -69,7 +69,8 @@ The craft system is based on farms and enchantry.
 Firstly, you need special elven wood in farms. Seeds of this plant produced in enchanter's pentagram from any logs (use your wagon). It can be growed whole year.
 After growing plant, produce logs in wood grovery workshop.
 Elves can form logs into weapons and armor in weaponist workshop but this production is very poor in battle. To improve this, they use enchanter's pentagram. Resulting product are useful enchanted wood items.
-Also, enchanted wood items can be improved by creation of moon metal items. Ritual require 5 candles and enchanted wood item.
+Also, enchanted wood items can be improved by creation of moon metal items. Moon ritual require 5 candles and enchanted wood item.
+Enchanted wood worse than iron, moon metal is middle between copper and steel (slightly better than iron).
 
 The last important thing is social organization. You have expedition leader - chief, militia commander with 15-members squad and lieutenants with 5 rangers squads.
 Also, there ate druid, quenn and princess in capital. All nobles don't have any requirements or mandates.
@@ -88,7 +89,7 @@ Mummy dead.
 
 #### Material test results
 *Cutting weapon*:
-Adamantine > dwarven steel > moon metal > steel, nickel steel > enchanted wood.
+Adamantine > dwarven steel > steel, nickel steel > moon metal > iron > enchanted wood > copper.
 *Blunt weapon and shields*:
 Steel, nickel steel > dwarven steel > moon metal, enchanted wood > adamantine.
 *Armor*:
